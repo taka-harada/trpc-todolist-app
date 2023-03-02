@@ -1,0 +1,22 @@
+# dependencies
+*node_modules/
+
+# misc
+.DS_*
+
+# cache
+.eslintcache
+.stylelintcache
+
+# debug
+npm-debug.log*
+
+# env
+*.env
+
+# vscode
+.vscode/settings.json
+
+# storycap screenshots
+.reg
+__screenshots__/**/*.png
